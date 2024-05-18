@@ -10,6 +10,7 @@ header{
   padding: 20px;
   text-align: center;
   font-size: x-large;
+  text-decoration-line: underline;
 }
 .topnav{
   overflow: hidden;
@@ -38,6 +39,9 @@ header{
   font-size: x-large;
   width: 50%;
   color: white;
+}
+blockquote q{
+  font-style: italic;
 }
 .row::after{
   content: "";
